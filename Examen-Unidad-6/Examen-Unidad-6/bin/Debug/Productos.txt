@@ -1,0 +1,19 @@
+
+
+Nombre del producto: Cubrebocas
+Descripcion del prodcuto: Para protegerte de todo tipo de contagios y enfermedades
+
+Precio del producto: 150
+Cantidad en stock: 58
+
+Nombre del producto: google pixel 2
+Descripcion del prodcuto: Celular rapido con una camara asombrosa
+
+Precio del producto: $2,999.99
+Cantidad en stock: 4
+
+Nombre del producto: peine
+Descripcion del prodcuto: para peinarte cuando deseas
+
+Precio del producto: $199.99
+Cantidad en stock: 18
